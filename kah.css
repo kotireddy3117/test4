@@ -1,0 +1,282 @@
+.nav{
+    align-items: center;
+}
+.nbkf{
+    position: absolute;
+width: 399px;
+height: 116px;
+left: 0px;
+top: 99px;
+
+background: #D9D9D9;
+border-radius: 40px;
+}
+.nbkp{
+    position: absolute;
+width: 118px;
+height: 116px;
+left: 45px;
+top: 99px;
+
+background: url(nbk.jpg);
+
+}
+.sn1{
+    position: absolute;
+width: 19px;
+height: 48px;
+left: 14px;
+top: 75px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+.nbkn{
+    
+position: absolute;
+width: 183px;
+height: 78px;
+left: 200px;
+top: 90px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+}
+.mbf{
+    
+position: absolute;
+width: 399px;
+height: 116px;
+left: 0px;
+top: 240px;
+
+background: #D9D9D9;
+border-radius: 40px;
+}
+.mbn{
+    
+position: absolute;
+width: 206px;
+height: 39px;
+left: 177px;
+top: 248px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.mbp{
+    position: absolute;
+width: 108px;
+height: 116px;
+left: 55px;
+top: 240px;
+}
+.sn2{
+    position: absolute;
+width: 20px;
+height: 39px;
+left: 23px;
+top: 229px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.ntrf{
+    position: absolute;
+width: 399px;
+height: 116px;
+left: 6px;
+top: 381px;
+
+background: #D9D9D9;
+border-radius: 40px;
+}
+.ntrp{
+    position: absolute;
+width: 108px;
+height: 116px;
+left: 55px;
+top: 381px;
+}
+.ntrn{
+    
+position: absolute;
+width: 102px;
+height: 39px;
+left: 200px;
+top: 392px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+color: #000000;
+}
+.praf{
+    position: absolute;
+width: 399px;
+height: 116px;
+left: 0px;
+top: 528px;
+
+background: #D9D9D9;
+border-radius: 40px;
+}
+.sn3{
+    position: absolute;
+width: 21px;
+height: 39px;
+left: 24px;
+top: 369px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.prap{
+    
+position: absolute;
+width: 108px;
+height: 116px;
+left: 50px;
+top: 530px;
+}
+.sn4{
+    
+position: absolute;
+width: 21px;
+height: 39px;
+left: 22px;
+top: 520px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.pran{
+    
+position: absolute;
+width: 124px;
+height: 39px;
+left: 206px;
+top: 540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.pkf{
+    
+position: absolute;
+width: 399px;
+height: 116px;
+left: 6px;
+top: 678px;
+
+background: #D9D9D9;
+border-radius: 40px;
+
+}
+.pkp{
+    
+position: absolute;
+width: 115px;
+height: 117px;
+left: 43px;
+top: 679px;
+}
+.pkn{
+    /* Pavan Kalyan */
+
+
+position: absolute;
+width: 202px;
+height: 39px;
+left: 177px;
+top: 711px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.sn5{
+    position: absolute;
+width: 20px;
+height: 39px;
+left: 16px;
+top: 665px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+#nbkptd{
+    position: absolute;
+    background: yellow;
+    top: 106px;
+    border-radius: 20px;
+    left: 211px;
+}

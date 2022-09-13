@@ -1,0 +1,122 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <audio id="nbkd">
+        <source src="nbk.mp3" type="audio/mpeg">
+    </audio>
+    <button id="btn" onclick="play()">Play the dialouge</button>
+    <h2 id="nbkn">Nandhamuri Balakrishna</h2>
+    <img src="nbk.jpg" id="nbkp" alt="">
+    <h1 id="nick">Ballayya</h1>
+    <p id="age">Age:</p>
+    <p id="nm">Number of movies:</p>
+    <p id="pm">Present working on:</p>
+
+
+
+
+
+
+</body>
+</html>
+<script>
+    function play(){
+        var audio = new Audio('nbk.mp3')
+        audio.play();
+    }
+    </script>
+<style>
+    #btn{
+        
+position: absolute;
+width: 292px;
+height: 44px;
+left: 68px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+    }
+#nbkp{
+    
+position: absolute;
+width: 266px;
+height: 271px;
+left: 81px;
+top: 192px;
+}
+#nbkn{
+    
+position: absolute;
+width: 391px;
+height: 44px;
+left: 40px;
+top: 103px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#nick{
+    position: absolute;
+    left: 140px;
+    top: 60px;
+}
+#age{
+    
+position: absolute;
+width: 78px;
+height: 44px;
+left: 29px;
+top: 597px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+#nm{
+    
+position: absolute;
+width: 322px;
+height: 44px;
+left: 25px;
+top: 664px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+</style>
